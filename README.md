@@ -84,8 +84,7 @@
   
 <h6 align="center">
   <a href="http://wiktorcholewa.dev/">
-    <img src="https://i.ibb.co/k0v69J1/po.png" height="220" alt="intellij logo"  />
-  <img width="12" />
+    <img src="https://i.ibb.co/k0v69J1/po.png" width="45%" alt=""  />
   </a>
 </h6>
 

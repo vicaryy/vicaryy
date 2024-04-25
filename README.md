@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋</h1>
 
 ###
 
-<p align="left">My name is Wiktor Cholewa and I'm a fullstack developer, from Poland.</p>
+<p align="left">My name is Wiktor Cholewa and I'm a fullstack developer from Poland.</p>
 
 ###
 
@@ -23,13 +23,15 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://wiktorcholewa.dev/assets/img/java-logo.png" height="40" alt="java logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://wiktorcholewa.dev/assets/img/sql-logo.png" height="40" alt="css3 logo"  />
 </div>
 
 ###
@@ -39,13 +41,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://wiktorcholewa.dev/assets/img/spring-logo.png" height="40" alt=""  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img src="https://wiktorcholewa.dev/assets/img/hibernate-logo.png" height="40" alt=""  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/hibernate/59666C" height="40" alt="hibernate logo"  />
+  <img src="https://wiktorcholewa.dev/assets/img/playwright-logo.png" height="40" alt=""  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img src="https://wiktorcholewa.dev/assets/img/junit-logo.png" height="40" alt=""  />
+    <img width="12" />
+  <img src="https://wiktorcholewa.dev/assets/img/thymeleaf-logo.png" height="40" alt=""  />
+      <img width="12" />
+  <img src="https://wiktorcholewa.dev/assets/img/htmx-logo.png" height="40" alt=""  />
+        <img width="12" />
+  <img src="https://wiktorcholewa.dev/assets/img/scss-logo.png" height="40" alt=""  />
 </div>
 
 ###
@@ -65,23 +73,21 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt=""  />
+    <img width="12" />
+  <img src="https://wiktorcholewa.dev/assets/img/photopea-logo.png" height="40" alt=""  />
 </div>
 
-###
+  <h2></h2>
+  
+  ###
+  
+<h6 align="center">
+  <a href="http://wiktorcholewa.dev/">
+    <img src="https://i.ibb.co/k0v69J1/po.png" height="250" alt="intellij logo"  />
+  <img width="12" />
+  </a>
+</h6>
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vicaryy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vicaryy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-</div>
-
-###

@@ -23,15 +23,15 @@
 ###
 
 <div align="left">
-  <img src="https://wiktorcholewa.dev/assets/img/java-logo.png" height="40" alt="java logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://wiktorcholewa.dev/assets/img/sql-logo.png" height="40" alt="css3 logo"  />
+  <img src="https://wiktorcholewa.dev/assets/img/java-logo.png" height="35" alt="java logo"/>
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://wiktorcholewa.dev/assets/img/sql-logo.png" height="35" alt="css3 logo"  />
 </div>
 
 ###
@@ -41,19 +41,19 @@
 ###
 
 <div align="left">
-  <img src="https://wiktorcholewa.dev/assets/img/spring-logo.png" height="40" alt=""  />
-  <img width="12" />
-  <img src="https://wiktorcholewa.dev/assets/img/hibernate-logo.png" height="40" alt=""  />
-  <img width="12" />
-  <img src="https://wiktorcholewa.dev/assets/img/playwright-logo.png" height="40" alt=""  />
-  <img width="12" />
-  <img src="https://wiktorcholewa.dev/assets/img/junit-logo.png" height="40" alt=""  />
-    <img width="12" />
-  <img src="https://wiktorcholewa.dev/assets/img/thymeleaf-logo.png" height="40" alt=""  />
-      <img width="12" />
-  <img src="https://wiktorcholewa.dev/assets/img/htmx-logo.png" height="40" alt=""  />
-        <img width="12" />
-  <img src="https://wiktorcholewa.dev/assets/img/scss-logo.png" height="40" alt=""  />
+  <img src="https://wiktorcholewa.dev/assets/img/spring-logo.png" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://wiktorcholewa.dev/assets/img/hibernate-logo.png" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://wiktorcholewa.dev/assets/img/playwright-logo.png" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://wiktorcholewa.dev/assets/img/junit-logo.png" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://wiktorcholewa.dev/assets/img/thymeleaf-logo.png" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://wiktorcholewa.dev/assets/img/htmx-logo.png" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://wiktorcholewa.dev/assets/img/scss-logo.png" height="35" alt=""  />
 </div>
 
 ###
@@ -63,19 +63,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="40" alt="apachemaven logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt=""  />
-    <img width="12" />
-  <img src="https://wiktorcholewa.dev/assets/img/photopea-logo.png" height="40" alt=""  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://cdn.simpleicons.org/apachemaven/C71A36" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt=""  />
+  <img width="8" />
+  <img src="https://wiktorcholewa.dev/assets/img/photopea-logo.png" height="35" alt=""  />
 </div>
 
   <h2></h2>

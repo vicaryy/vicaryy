@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my school days, although it has been my passion since early 2023.<br>📚 I'm currently learning TypeScript and Angular.<br>🎯 Goals: Find my first job!</p>
+<p align="left">✨ Creating bugs since my school days, although it has been my passion since early 2023.<br>📚 I'm currently learning DSA.<br>🎯 Goals: Find my first job!</p>
 
 ###
 
